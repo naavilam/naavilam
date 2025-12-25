@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://naavilam.github.io">
     <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/banner-profile.svg" width="100%" alt="Profile banner"/>
   </a>
 </p>
