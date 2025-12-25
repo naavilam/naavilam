@@ -15,40 +15,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <p align="center">
   <a href="https://github.com/SEU_USUARIO">
-    <img src="assets/banner-profile.svg" width="100%" alt="Profile banner"/>
+    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/banner-profile.svg" width="100%" alt="Profile banner"/>
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO/REPO-QUANTUM-SIM">
-    <img src="assets/card-quantum-sim.svg" width="100%" alt="Research in Quantum Simulation"/>
+  <a href="https://github.com/quantum-materials-simulation-research">
+    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-quantum-sim.svg" width="100%" alt="Research in Quantum Simulation"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO/REPO-HIGH-ENERGY">
-    <img src="assets/card-high-energy.svg" width="100%" alt="Research in High Energy"/>
+  <a href="https://github.com/high-energy-physics-research">
+    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-high-energy.svg" width="100%" alt="Research in High Energy"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Academic-Codex">
-    <img src="assets/card-academic-codex.svg" width="100%" alt="Academic Codex"/>
+    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-academic-codex.svg" width="100%" alt="Academic Codex"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO/automations-scripts">
-    <img src="assets/card-automations.svg" width="100%" alt="Automation Scripts"/>
+  <a href="https://github.com/automations-scripts">
+    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-automations.svg" width="100%" alt="Automation Scripts"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO/apps">
-    <img src="assets/card-apps.svg" width="100%" alt="Apps"/>
+  <a href="https://github.com/application-vault">
+    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-apps.svg" width="100%" alt="Apps"/>
   </a>
 </p>
