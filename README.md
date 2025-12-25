@@ -14,3 +14,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="assets/banner-profile.svg" width="100%" alt="Profile banner"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO/REPO-QUANTUM-SIM">
+    <img src="assets/card-quantum-sim.svg" width="100%" alt="Research in Quantum Simulation"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO/REPO-HIGH-ENERGY">
+    <img src="assets/card-high-energy.svg" width="100%" alt="Research in High Energy"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Academic-Codex">
+    <img src="assets/card-academic-codex.svg" width="100%" alt="Academic Codex"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO/automations-scripts">
+    <img src="assets/card-automations.svg" width="100%" alt="Automation Scripts"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO/apps">
+    <img src="assets/card-apps.svg" width="100%" alt="Apps"/>
+  </a>
+</p>
