@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/automations-scripting">
+  <a href="https://github.com/automation-scripting">
     <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-automation.svg" width="100%" alt="Apps"/>
   </a>
 </p>
