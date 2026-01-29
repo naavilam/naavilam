@@ -7,19 +7,19 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/high-energy-physics-research">
+  <a href="https://high-energy-physics-research.github.io/">
     <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-high-energy.svg" width="100%" alt="Research in High Energy"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/quantum-materials-simulation-research">
+  <a href="https://quantum-materials-simulation-research.github.io/">
     <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-quantum-sim.svg" width="100%" alt="Research in Quantum Simulation"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Academic-Codex">
+  <a href="https://Academic-Codex.github.io/">
     <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-academic-codex.svg" width="100%" alt="Academic Codex"/>
   </a>
 </p>
