@@ -20,13 +20,13 @@
     <text x="70" y="68"
         font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
         font-size="28" fill="#111827" font-weight="700">
-        Automation Scripts
+        Applications
     </text>
 
     <text x="70" y="102"
         font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
         font-size="16" fill="#374151">
-        CI/CD helpers • GitHub Actions • release tooling • content pipelines
+        Molecular Symmetry • Others Applications
     </text>
 
     <text x="70" y="130"
