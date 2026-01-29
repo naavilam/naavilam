@@ -25,13 +25,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/automations-scripts">
-    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-automations.svg" width="100%" alt="Automation Scripts"/>
+  <a href="https://github.com/automations-scripting">
+    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-automation.svg" width="100%" alt="Apps"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/application-vault">
-    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-apps.svg" width="100%" alt="Apps"/>
+    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-apps.svg" width="100%" alt="Automation Scripts"/>
   </a>
 </p>
