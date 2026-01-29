@@ -7,14 +7,14 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/quantum-materials-simulation-research">
-    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-quantum-sim.svg" width="100%" alt="Research in Quantum Simulation"/>
+  <a href="https://github.com/high-energy-physics-research">
+    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-high-energy.svg" width="100%" alt="Research in High Energy"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/high-energy-physics-research">
-    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-high-energy.svg" width="100%" alt="Research in High Energy"/>
+  <a href="https://github.com/quantum-materials-simulation-research">
+    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-quantum-sim.svg" width="100%" alt="Research in Quantum Simulation"/>
   </a>
 </p>
 
