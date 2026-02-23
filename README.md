@@ -35,14 +35,3 @@
     <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-apps.svg" width="100%" alt="Automation Scripts"/>
   </a>
 </p>
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=naavilam&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naavilam&layout=compact&hide_border=true" height="165" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=naavilam&hide_border=true" height="165" />
-</p>
