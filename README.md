@@ -35,3 +35,5 @@
     <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-apps.svg" width="100%" alt="Automation Scripts"/>
   </a>
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=naavilam&label=Profile%20views&color=0e75b6&style=flat)
