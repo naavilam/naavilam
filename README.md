@@ -38,15 +38,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naavilam&show_icons=true&hide_border=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=naavilam&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naavilam&layout=compact&hide_border=true" height="165" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naavilam&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=naavilam&hide_border=true)
-![Profile views](https://komarev.com/ghpvc/?username=naavilam&label=Profile%20views&color=0e75b6&style=flat)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naavilam&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naavilam&layout=compact&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=naavilam&hide_border=true)
-![Commits Rank](https://img.shields.io/badge/dynamic/json?color=blue&label=commits.top%20rank&query=rank&url=https://commits.top/api/naavilam)
+<p>
+  <img src="https://streak-stats.demolab.com?user=naavilam&hide_border=true" height="165" />
+</p>
