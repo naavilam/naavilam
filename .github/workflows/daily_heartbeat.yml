@@ -1,0 +1,38 @@
+name: Daily heartbeat
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: heartbeat
+  cancel-in-progress: false
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Update heartbeat
+        run: |
+          mkdir -p .github
+          echo "Last heartbeat: $(date -u)" > .github/heartbeat.txt
+
+      - name: Commit and push
+        run: |
+          git config user.name "${{ vars.GIT_USER_NAME }}"
+          git config user.email "${{ vars.GIT_USER_EMAIL }}"
+
+          git add .github/heartbeat.txt
+          git commit -m "Update files" || echo "No changes"
+
+          git push
