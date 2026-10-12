@@ -8,13 +8,19 @@
 
 <p align="center">
   <a href="https://high-energy-physics-research.github.io/">
-    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-high-energy.svg" width="100%" alt="Research in High Energy"/>
+    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-high-energy.svg" width="100%" alt="Nuclear Physics Research"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://quantum-materials-simulation-research.github.io/">
-    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-quantum-sim.svg" width="100%" alt="Research in Quantum Simulation"/>
+    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-quantum-mat.svg" width="100%" alt="Quantum Materials Simulation Research"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://quantum-computing-research.github.io/">
+    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-quantum-comp.svg" width="100%" alt="Quantum Computing Research"/>
   </a>
 </p>
 
@@ -27,11 +33,5 @@
 <p align="center">
   <a href="https://github.com/automation-scripting">
     <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-automation.svg" width="100%" alt="Apps"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/application-vault">
-    <img src="https://github.com/naavilam/naavilam/blob/main/.github/assets/card-apps.svg" width="100%" alt="Automation Scripts"/>
   </a>
 </p>
